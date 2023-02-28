@@ -1,0 +1,1 @@
+<?phpclass ACCREDO_SB_Deactivator {	public static function deactivate() {}}

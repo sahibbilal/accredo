@@ -1,0 +1,1 @@
+<?phpclass ACCREDO_SB_Activator {	public static function activate() {	}}
